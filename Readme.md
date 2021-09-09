@@ -17,5 +17,14 @@
 
 Some others functions was intersting too, but their purpose was very simple like "merge()", "compact()" or "flatten(), they are useful to manage list and strings. 
 
+2. Deploy the following infrastructure 
+    a. 
+        i. Deploy a VPC (Using the terraform-aws-vpc module) 
+        ii. Deploy a EC2 inside that VPC (Module created by yourself) 
+    
+    https://github.com/javib94/Terraform_homework/tree/main/Deploy1
 
+    b. 
+        i. Deploy a VPC (Module created by yourself) 
 
+    https://github.com/javib94/Terraform_homework/tree/main/Deploy2
